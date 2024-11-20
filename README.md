@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @shravssss
-- 👀 I’m interested in coding , frontend 
-- 🌱 I’m currently learning everything i am capable offf
-- - 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning everything i am capable of
 - 📫 How to reach me ... shravanibhatnagar10@gmail.com
-- 😄 Pronouns: ... sheeeeeeeeee
-- ⚡ Fun fact: ...
+
 
 <!---
 shravanimit24/shravanimit24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

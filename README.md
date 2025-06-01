@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shravssss
+- 👋 Hi, I’m shravani
 - 🌱 I’m currently learning everything i am capable of
 - 📫 How to reach me ... shravanibhatnagar10@gmail.com
 
